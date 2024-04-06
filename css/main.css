@@ -1,0 +1,21 @@
+body {
+  font-family: 'Monserrat', sans-serif;
+}
+
+.container {
+  max-width: 1140px;
+  padding: 0 3rem;
+}
+
+.navbar .nav-link {
+  font-size: 0.87rem;
+  margin-right: 0.87rem;
+}
+
+.navbar .nav-item .btn {
+  padding: 0.2rem 1.5rem;
+}
+
+.home-bg {
+  background-color: #f0f5f9;
+}
