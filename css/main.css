@@ -19,3 +19,9 @@ body {
 #showcase {
   background-color: #f0f5f9;
 }
+
+#features .container {
+  background-color: #f0f5f9;
+
+  /* border-radius: 10px; */
+}
