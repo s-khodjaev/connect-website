@@ -18,7 +18,8 @@ body {
 
 #showcase,
 #features .container,
-#reviews .container {
+#reviews .container,
+#faq .container {
   background-color: #eff2f5;
 }
 
