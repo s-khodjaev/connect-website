@@ -16,12 +16,11 @@ body {
   padding: 0.2rem 1.5rem;
 }
 
-#showcase {
+#showcase,
+#features .container {
   background-color: #f0f5f9;
 }
 
-#features .container {
-  background-color: #f0f5f9;
-
-  /* border-radius: 10px; */
+.results__card-image {
+  width: 80px;
 }
