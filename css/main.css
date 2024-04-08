@@ -17,10 +17,17 @@ body {
 }
 
 #showcase,
-#features .container {
+#features .container,
+#reviews .container {
   background-color: #f0f5f9;
 }
 
 .results__card-image {
   width: 80px;
+}
+
+.carousel__img {
+  width: 50px;
+  float: left;
+  margin-right: 15px;
 }
